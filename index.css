@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background: rgba(0, 0, 0, 0.5) url('https://images.pexels.com/photos/3104/black-and-white-music-headphones-life.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background: rgba(0, 0, 0, 0.5) url('https://images.pexels.com/photos/3104/black-and-white-music-headphones-life.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') repeat fixed 100%;
     background-size:cover;
     background-repeat: no-repeat;
     background-blend-mode: darken;
@@ -71,7 +71,7 @@ footer p{
     }
     
     h1{
-        font-size:15px;
+        font-size:35px;
         margin-bottom: 0;
     }
     p{
